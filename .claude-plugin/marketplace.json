@@ -1,0 +1,11 @@
+{
+  "name": "ready-fire-aim-skills",
+  "owner": { "name": "Robin Lange", "url": "https://omit.nz" },
+  "plugins": [
+    {
+      "name": "ready-fire-aim",
+      "source": "./",
+      "description": "Sales-first skills for founders, from Ready, Fire, Aim"
+    }
+  ]
+}

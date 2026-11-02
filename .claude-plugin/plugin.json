@@ -1,0 +1,9 @@
+{
+  "name": "ready-fire-aim",
+  "version": "0.1.0",
+  "description": "Five sales-first skills for founders, from Michael Masterson's Ready, Fire, Aim: check the selling state before building, test ideas fast, find the way you sell, diagnose your stage, sell to the customers you have",
+  "author": { "name": "Robin Lange", "url": "https://omit.nz" },
+  "repository": "https://github.com/robinslange/ready-fire-aim-skills",
+  "license": "MIT",
+  "keywords": ["sales", "founders", "startup", "solo-business", "skills"]
+}
